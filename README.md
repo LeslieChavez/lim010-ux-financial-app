@@ -86,7 +86,8 @@ En el bechmark consideramos a las principales empresas dedicadas a la banca en e
 Nuestra guia de entrevista estuvo orientada a conocer a nuestros y su experiencia con la banca física, las aplicaciones financieras que utiliza así como sus hábitos de ahorro y control de gastos. Estas preguntas nos permitieron encontrar patrones de conducta para rediseñar a nuestros user persona.
 
 <br>
-<center><img width="800" alt="affinity map" src="https://user-images.githubusercontent.com/51206952/65429701-4152cd80-dddc-11e9-9f10-d5b9999851ea.PNG">
+<center><img width="900" alt="affinity map" src="https://user-images.githubusercontent.com/51206952/65447383-08c2ec00-ddfc-11e9-91c3-0ba19537b0ca.png">
+
 </center>
 <br>
 
