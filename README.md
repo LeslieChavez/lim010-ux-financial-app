@@ -72,9 +72,9 @@ Luego de realizarlas identificamos los siguientes problemas a nivel de usuario:
 Además de los user personas, necesitábamos validar el flujo del MVP. Para ello realizamos 2 tipos de testing: virtual y de guerrilla.
 
 Especificamos **5 tareas** a realizar:
-<center><img width="800" alt="Benchmark" src="https://user-images.githubusercontent.com/51206952/65444776-63f1e000-ddf6-11e9-87ad-6626685f18ec.png"></center>
+<center><img width="900" alt="Testing" src="https://user-images.githubusercontent.com/51206952/65444776-63f1e000-ddf6-11e9-87ad-6626685f18ec.png"></center>
 
-<center><img width="800" alt="Benchmark" src="https://user-images.githubusercontent.com/51206952/65438989-16707580-ddec-11e9-8c23-965d18c13a6c.png"></center>
+<center><img width="900" alt="Registro fotografico" src="https://user-images.githubusercontent.com/51206952/65438989-16707580-ddec-11e9-8c23-965d18c13a6c.png"></center>
 
 ### [1.3. Benchmark](https://docs.google.com/spreadsheets/d/12m7LZnfiPpY3vhDNyRvt9o42wkLaBeDlDT-KRjwKya4/edit?usp=sharing) 
 
@@ -86,7 +86,7 @@ En el bechmark consideramos a las principales empresas dedicadas a la banca en e
 Nuestra guia de entrevista estuvo orientada a conocer a nuestros y su experiencia con la banca física, las aplicaciones financieras que utiliza así como sus hábitos de ahorro y control de gastos. Estas preguntas nos permitieron encontrar patrones de conducta para rediseñar a nuestros user persona.
 
 <br>
-<center><img width="426" alt="affinity map" src="https://user-images.githubusercontent.com/51206952/65429701-4152cd80-dddc-11e9-9f10-d5b9999851ea.PNG">
+<center><img width="800" alt="affinity map" src="https://user-images.githubusercontent.com/51206952/65429701-4152cd80-dddc-11e9-9f10-d5b9999851ea.PNG">
 </center>
 <br>
 
@@ -106,10 +106,11 @@ Luego de las entrevistas a los perfiles que nos indicó el equipo de Banqui, con
 Por lo tanto, las personas que nos propusieron en un inicio fueron redefinidas de la siguiente manera:
 
 #### User Persona Principal
-<center><img width="726" src="https://user-images.githubusercontent.com/51206952/65431605-5e3cd000-dddf-11e9-8372-96d684e56f57.png"></center>
+<center><img width="900" src="https://user-images.githubusercontent.com/51206952/65431605-5e3cd000-dddf-11e9-8372-96d684e56f57.png"></center>
 <br>
+
 #### User Persona Secundario
-<center><img width="726" src="https://user-images.githubusercontent.com/51206952/65431606-5e3cd000-dddf-11e9-9391-7950cff87d70.png"></center>
+<center><img width="900" src="https://user-images.githubusercontent.com/51206952/65431606-5e3cd000-dddf-11e9-9391-7950cff87d70.png"></center>
 
 
 ### 2.3 Costumer Journey Map 
@@ -129,7 +130,7 @@ Estos fueron los siguientes puntos críticos:
 ### 2.4. Problem Statements
 Teniendo en cuenta a nuestros 2 user persona, consideramos 8 problem statements iniciales. Luego de analizar las restricciones de tiempo y recursos, priorizamos los siguientes:
 
-<center><img width="881" alt="problem statement" src="https://user-images.githubusercontent.com/51206952/65440178-f2ae2f00-dded-11e9-9899-10fce402f228.png">
+<center><img width="900" alt="problem statement" src="https://user-images.githubusercontent.com/51206952/65440178-f2ae2f00-dded-11e9-9899-10fce402f228.png">
 </center>
 
 Para profundizar y priorizar las soluciones para nuestros problems statement utilizamos las siguientes **[herramientas](https://docs.google.com/spreadsheets/d/1-IiZooKKQpX1rqkfdkgQIzHvFe-20ZIUSwiQrxGc3r8/edit?usp=sharing)**:
