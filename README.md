@@ -5,10 +5,9 @@
 |Banqui (App iOs)| *Aplicación financiera con opción de ahorro y control de gastos* |Michael Gonzáles| 6 meses | *Leslie Chávez & Trinidad Mejía* |
 
 ***
-Banqui, uno de los bancos más importantes del Perú nos ha encargado hacer el rediseño de su aplicación. Desarrollaron un MVP como app para iOS, cuyas principales funcionalidades son las de promover el ahorro y el control de las finanzas personales en sus usuarios.
+Banqui, uno de los bancos más importantes del Perú, nos ha encargado hacer el rediseño de su aplicación. Desarrollaron un MVP como app para iOS, cuyas principales funcionalidades son las de promover el ahorro y el control de las finanzas personales en sus usuarios.
 
-Tuvo tracción durante el periodo de su lanzamiento al mercado, sin embargo este estancó durante los siguientes meses. Por esta razón, el equipo ha decidido contratar a nuestra consultoría para su rediseño.
-
+Tuvo tracción durante el periodo de su lanzamiento al mercado, sin embargo este se estancó durante los siguientes meses. Por esta razón, el equipo ha decidido contratar a nuestra consultoría para su rediseño.
 
 <center><img width="900" alt="Banqui" src="https://user-images.githubusercontent.com/51206952/65427364-c687b380-ddd7-11e9-815a-82f33fb10e56.png"></center>
 
@@ -50,16 +49,16 @@ Además de ello, resaltó las siguientes apreciaciones:
 
 #### 1.2.2. Entrevistas a usuarios
 
-El equipo de Banqui nos proporcionó 2 users personas, cuyos perfiles definimos como nuestro user target. Agendamos entrevistas con usuarios con estos perfiles,  5 usuarios entre 21 y 40 años. 
+El equipo de Banqui nos proporcionó 2 users personas, cuyos perfiles definimos como nuestro user target. Agendamos entrevistas con 5 usuarios entre 21 y 40 años que cumplan con estos características. 
 
 >[**Problemas encontrados a nivel de usuario**](https://docs.google.com/document/d/1uGmTIFC9FJMYqC70PYVAm6QdfaYMr7cr5cQYWDoZpkw/edit?usp=sharing)<br>
 Luego de realizarlas identificamos los siguientes problemas a nivel de usuario:
 
 - Todos los usuarios de telefonía móvil tienen al menos 1 app de banca instalado.
-- Las aplicaciones que más son WhatsApp, Instagram, Netflix y dentro de las apps financieras, las preferidas fueron BCP y BBVA.
+- Las aplicaciones que más usan son WhatsApp, Instagram, Netflix y dentro de las apps financieras, las preferidas fueron las del BCP y del BBVA.
 - Todos han intentado ahorrar al menos una vez, sin embargo reconocen que les hace falta constancia y necesitan motivación para hacerlo.
-- Para controlar sus gastos utilizan distintas aplicaciones o spreadsheets; sin embargo el principal problema para ellos es su actualización manual debido a que funcionan separadas de las apps en donde realizan sus movimientos.
-- Los objetivos de viaje y los de estudio son las motivaciones principales para ahorrar.
+- Para controlar sus gastos utilizan distintas aplicaciones o spreadsheets; sin embargo el principal problema para ellos es su actualización manual debido a que funcionan separadas de las apps en donde realizan sus principales movimientos.
+- Los objetivos de viaje y los de estudio son las principales motivaciones para ahorrar.
 
 
 > *“Quiero que la app del banco que tenga sea rápida y segura”*
@@ -100,11 +99,12 @@ Nos encargamos de validar a los siguientes [user personas](https://docs.google.c
 |**User persona 2**| Carlos | 38 años
 
 Luego de las entrevistas a los perfiles que nos indicó el equipo de Banqui, concluimos que:
-- Las necesidades de ahorro y control de gastos de María y Carlos tienen requerimientos que por el momento Banqui no puede ofrecer.
+
+- Las necesidades de María y Carlos tienen requerimientos que por el momento Banqui no puede ofrecer como préstamos bancarios e intereses por ahorrar.
 - Administran sumas altas y a plazos medianos y largos. Estos ahorros prefieren tenerlos en un banco para mayor seguridad debido a que no lo tocarán durante un periodo largo.
 - Requieren otras funcionalidades como el tipo de cambio.
 
-Por lo tanto, las personas que nos propusieron en un inicio fueron redefinidas de la siguiente manera:
+Por lo tanto, las personas propuestas por el equipo de Banqui fueron redefinidas de la siguiente manera:
 
 #### User Persona Principal
 <center><img width="900" src="https://user-images.githubusercontent.com/51206952/65431605-5e3cd000-dddf-11e9-8372-96d684e56f57.png"></center>
@@ -123,9 +123,10 @@ Para identificar los puntos de mejora de la app realizamos un Costumer Journey M
 <br>
 
 Estos fueron los siguientes puntos críticos:
-1. Ingresar a movimientos de la tarjeta. No identificaron dónde encontrar estos movimientos. Fue confundido con “operaciones” o “gastos”
+
+1. No identificaron dónde encontrar el ícono para ingresar a los movimientos de la tarjeta. Fue confundido con “operaciones” o “gastos”
 1. Le gusta saber que existen categorías para hacer el seguimiento a sus gastos, pero no logra entender el funcionamiento del todo.
-1. Entender el progreso de su meta de ahorro y que esta no sea vista en el hombre de la aplicación.
+1. Le pareció genial poder crear una meta de ahorro pero le costó leer el progreso de sus metas ya creadas. Además le gustaría verlas en el *home* de la aplicación para recordar y ser constante en su propósito de ahorrar.
 1. En el pago de servicios le solicitaron el código de recibo cuando usualmente utiliza el número de su celular.
 
 ### 2.4. Problem Statements
@@ -147,6 +148,7 @@ Para profundizar y priorizar las soluciones para nuestros problems statement uti
 
 ### 3.1 Prototipo de baja fidelidad (MVP)
 Complementamos las funcionalidades ya existentes, agregamos a la propuesta de valor lo siguiente:
+
 - Crear la opción “plazo fijo” en los ahorros, para promover el hábito.
 - Categorizar cada uno de los movimientos (ingresos y egresos), - incluso cuando estos movimientos ya fueron realizados.
 - Renombrar a la categoría de ingresos y gastos como “Mi Billetera” con la finalidad de diferenciarlo de operaciones y movimientos.
