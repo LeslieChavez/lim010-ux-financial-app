@@ -86,7 +86,7 @@ En el bechmark consideramos a las principales empresas dedicadas a la banca en e
 Nuestra guia de entrevista estuvo orientada a conocer a nuestros y su experiencia con la banca física, las aplicaciones financieras que utiliza así como sus hábitos de ahorro y control de gastos. Estas preguntas nos permitieron encontrar patrones de conducta para rediseñar a nuestros user persona.
 
 <br>
-<center><img width="900" alt="affinity map" src="https://user-images.githubusercontent.com/51206952/65447383-08c2ec00-ddfc-11e9-91c3-0ba19537b0ca.png">
+<center><img width="900" alt="affinity map" src="https://user-images.githubusercontent.com/51206952/65447904-33fa0b00-ddfd-11e9-8e77-300ab397bb91.png">
 
 </center>
 <br>
@@ -137,7 +137,9 @@ Teniendo en cuenta a nuestros 2 user persona, consideramos 8 problem statements 
 Para profundizar y priorizar las soluciones para nuestros problems statement utilizamos las siguientes **[herramientas](https://docs.google.com/spreadsheets/d/1-IiZooKKQpX1rqkfdkgQIzHvFe-20ZIUSwiQrxGc3r8/edit?usp=sharing)**:
 
 *1. How Might We / Cómo podríamos*
+
 *2. What if*
+
 *3. Feature List*
 
  
