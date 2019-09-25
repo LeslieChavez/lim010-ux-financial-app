@@ -5,7 +5,7 @@
 |Banqui (App iOs)| *Aplicación financiera con opción de ahorro y control de gastos* |Michael Gonzáles| 6 meses | *Leslie Chávez & Trinidad Mejía* |
 
 ***
-Banqui, uno de los bancos más importantes del Perú, nos ha encargado hacer el rediseño de su aplicación. Desarrollaron un MVP como app para iOS, cuyas principales funcionalidades son las de promover el ahorro y el control de las finanzas personales en sus usuarios.
+Banqui, uno de los bancos más importantes del Perú, nos ha encargado hacer el rediseño de su aplicación. Desarrollaron un MVP para iOS, cuyas principales funcionalidades son las de promover el ahorro y el control de las finanzas personales en sus usuarios.
 
 Tuvo tracción durante el periodo de su lanzamiento al mercado, sin embargo este se estancó durante los siguientes meses. Por esta razón, el equipo ha decidido contratar a nuestra consultoría para su rediseño.
 
