@@ -196,4 +196,4 @@ Complementamos las funcionalidades ya existentes, agregamos a la propuesta de va
 
 #### [5. Link a documentación en Google Drive](https://drive.google.com/drive/folders/1z8zUOMZGfeIpTEgY6OWFNVoi7NserX8u?usp=sharing)
 
-#### [6. Video explicativo del proyecto](https://www.loom.com/share/cd391548a9e44aa193c45ee44e14ab87)
+#### [6. Video explicativo del proyecto](https://www.loom.com/share/12386b526bbb4df8b3f5b55c5bfc553f)
